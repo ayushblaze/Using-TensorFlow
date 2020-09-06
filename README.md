@@ -1,3 +1,2 @@
-# Learning_TensorFlow
-This repository will be containing the tensorflow tutorials.<br>
+This repository will be containing codes I used Tensorflow in.<br>
 :)
